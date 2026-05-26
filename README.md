@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/waiting-for-this-moment/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Waiting For This Moment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waiting-for-this-moment/) |
+| **Get License** | [Official Music Licensing for Waiting For This Moment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waiting-for-this-moment/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the fever rushing through my veins
+> Like a summer river running from the rains
+> Your eyes are pulling every single wall apart
+> I have been holding back the rhythm of my heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
