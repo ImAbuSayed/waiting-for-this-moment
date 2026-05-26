@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/waiting-for-this-moment/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Waiting For This Moment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waiting-for-this-moment/) |
+| **Get License** | [Get a Licensing Quote for Waiting For This Moment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/waiting-for-this-moment/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2156)
 
 ---
 
